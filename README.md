@@ -153,7 +153,7 @@ This project offers valuable insights into the New York Airbnb market, helping b
    pip install numpy pandas matplotlib seaborn plotly scipy
    ```
    
-3. Run the **Jupyter notebook** or **Python script**:
+3. Run the **Jupyter notebook** or **Python script**
   
 - [Dataset link](https://github.com/aayushmanmukherjee/Airbnb_Data_Analysis_EDA/blob/main/datasets.csv)  
 - [EDA jupyter notebook link](https://github.com/aayushmanmukherjee/Airbnb_Data_Analysis_EDA/blob/main/eda.ipynb)  
