@@ -12,6 +12,7 @@ Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and pa
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
 
 ## **Objectives**
 
